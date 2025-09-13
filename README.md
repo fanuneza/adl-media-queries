@@ -1,4 +1,4 @@
-# Desafío – Electric Car Store
+# Desafío – Media Queries
 
 Este proyecto corresponde al **Desafío 3 del módulo de CSS avanzado (Grid + Media Queries)** en Desafío Latam.  
 La tarea consistió en maquetar la vista de una tienda de autos eléctricos, implementando **dos layouts (mobile y desktop)**, usando **CSS Grid** para el layout general y la grilla de productos, y **Flexbox** para la distribución interna de las secciones.
